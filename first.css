@@ -1,0 +1,38 @@
+
+
+
+
+input[type=text] {
+    width: 20%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: aqua;
+  }
+  input[type=number] {
+    width: 20%;
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: aqua;
+  }
+  label {
+    display: inline-block;
+    width: 150px;
+    
+  }
+  input[type=checkbox] {
+    display: inline-block;
+    width: 150px;
+    
+  }
+
+  td{
+    height: 25px;
+    width: 15%;
+    
+    padding: 10px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    background-color: rgb(108, 156, 156);
+  }
